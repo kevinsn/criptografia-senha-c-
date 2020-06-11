@@ -1,0 +1,6 @@
+c:\users\kspc\documents\visual studio 2015\Projects\Criptografia\Criptografia\bin\Debug\Criptografia.exe.config
+c:\users\kspc\documents\visual studio 2015\Projects\Criptografia\Criptografia\obj\Debug\Criptografia.csprojResolveAssemblyReference.cache
+c:\users\kspc\documents\visual studio 2015\Projects\Criptografia\Criptografia\bin\Debug\Criptografia.exe
+c:\users\kspc\documents\visual studio 2015\Projects\Criptografia\Criptografia\bin\Debug\Criptografia.pdb
+c:\users\kspc\documents\visual studio 2015\Projects\Criptografia\Criptografia\obj\Debug\Criptografia.exe
+c:\users\kspc\documents\visual studio 2015\Projects\Criptografia\Criptografia\obj\Debug\Criptografia.pdb
