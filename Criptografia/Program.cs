@@ -41,6 +41,7 @@ namespace Criptografia
                 //Console.WriteLine("\n");
 
                 senhaCripto += charSenha.Replace(charSenha, charSenhaCripto);
+                senhaCripto = senhaCripto.TrimEnd('\0');
 
                 bool result = Regex.IsMatch(charSenha, @".*[^\u0000-\u007F].*");
 
