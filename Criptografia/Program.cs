@@ -45,7 +45,7 @@ namespace Criptografia
 
                 bool result = Regex.IsMatch(charSenha, @".*[^\u0000-\u007F].*");
 
-                if (result == true)
+                if (result == true || result == Regex.IsMatch(charSenha, @"[^\u0020]"))
                 {
                     naoValido = true;
                 }
