@@ -15,7 +15,7 @@ namespace Criptografia
             string senha = Console.ReadLine();
             string senhaCripto = "";
             int qtdSenha = senha.Length;
-            const string valor = " ";
+            const string valor = "!";
             const string valor2 = "~";
             byte[] valorByte = Encoding.ASCII.GetBytes(valor);
             byte[] valorByte2 = Encoding.ASCII.GetBytes(valor2);
